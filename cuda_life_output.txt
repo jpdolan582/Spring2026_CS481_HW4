@@ -1,0 +1,2 @@
+Time taken 10.014658 seconds for 5000 iterations, cells alive = 775350
+Program terminates normally
